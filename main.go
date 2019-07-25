@@ -21,7 +21,7 @@ const (
 		{
 			"type": "section",
 			"text": {
-				"text": "*Consul service(s) check(s) are failing!* :disappointed:",
+				"text": "*Consul checks are failing!* :disappointed:",
 				"type": "mrkdwn"
 			}
 		},
